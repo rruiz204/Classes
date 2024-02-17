@@ -52,3 +52,11 @@ Investigate about these functions
 - float()
 - bool()
 """
+
+
+"""
+Topic: Nomenclature
+Normally Python uses Snake_Case
+"""
+
+first_variable = "This is Snake_Case"
